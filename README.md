@@ -11,8 +11,15 @@ perl
 perl-term-animation
 
 ## Use
-```
+
+```sh
 git clone https://github.com/zer0theory/asciifish.git
+```
+
+```
 cd asciifish
+```
+
+```
 ./asciifish
 ```
