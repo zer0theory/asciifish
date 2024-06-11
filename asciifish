@@ -1,10 +1,4 @@
 #!/usr/bin/env perl
-##############################################################################
-#
-# Modified by zer0theory to have a transparent background.
-# https://github.com/zer0theory
-# (c) 2024
-#
 #############################################################################
 # Asciiquarium - An aquarium animation in ASCII art
 #
@@ -42,6 +36,12 @@
 # You should have received a copy of the GNU General Public License along
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+##############################################################################
+#
+# Modified by zer0theory to have a transparent background.
+# https://github.com/zer0theory
+# (c) 2024
+#
 #############################################################################
 
 use Term::Animation 2.0;
